@@ -1,14 +1,7 @@
                                                               SAE03 :  
 
-Noms et Prénoms de Binôme :  
-Nom : MESSAHEL  
-Prénom : Lahna 
-Num étudiant : m22315283 
+Ce projet est rÃ©alisÃ© avec ma binÃ´me Melynda AIT ALLALA.
 
-Nom : AIT ALLALA  
-Prénom : Melynda 
-Num étudiant : a22313913  
-
-Le login et le mot de passe d'un des membres du comité d'organisation: 
+Le login et le mot de passe d'un des membres du comitÃ© d'organisation: 
 Login : melyndaaitallala 
 password : a22313913 
